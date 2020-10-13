@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1000527216479",
+    "firebase_url": "https://trail-app-8c07c.firebaseio.com",
+    "project_id": "trail-app-8c07c",
+    "storage_bucket": "trail-app-8c07c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000527216479:android:c396be202233e4c47d80ea",
+        "android_client_info": {
+          "package_name": "com.rahulmondal.trail_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000527216479-1uefve8kjul2dhn7ne53atvrnsitgt7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJc-8l0F2lTyX4hHjahD1ZR-o9qlozmEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000527216479-1uefve8kjul2dhn7ne53atvrnsitgt7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
